@@ -12,4 +12,4 @@ jobs:
         with:
           node-version: 'stable'
       - run: npm install
-      - run: echo "Warning: No tests created yet."
+      - run: "echo 'Warning: No tests created yet.'"
